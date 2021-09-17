@@ -68,6 +68,21 @@
 | line31| line32| line33|
 ```
 
+Blockqutoes
+
+> some text here
+
+>another one here
+
+```Assembly
+
+> some text here
+
+>another one here
+
+```
+
+
 Setting a Url:
 
 [This is My Github Page](https://github.com/dev2imp/LearnGitHubSyntax)
