@@ -6,7 +6,6 @@
 ###### Heading6
 
 ```Assembly
-
 # Heading1 
 ## Heading2
 ### Heading3
@@ -48,8 +47,10 @@
 1. Orderİtem2
 1. Orderİtem3
 ```
--[] Unchecked
--[x] Checked
+
+-[] incomplete
+-[x] Unchecked
+-[] Checked
 
 **Table**
 
